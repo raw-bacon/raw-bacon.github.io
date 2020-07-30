@@ -1,4 +1,4 @@
-# raw-bacon
+# My programs
 
 ## raw-validity
 Checks validity of l-group formulas.
