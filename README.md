@@ -7,4 +7,4 @@ Checks validity of l-group formulas.
 - [See how I run Rust on a static website](https://github.com/raw-bacon/raw-validity-webapp/)
 
 ## qp-tikz
-Constructs tikz code of the fiber surface of a quasi-positive braid. You can find the repository [here](https://github.com/raw-bacon/qp-tikz).
+A very small Python program that constructs tikz code of the fiber surface of a quasi-positive braid. You can find the repository [here](https://github.com/raw-bacon/qp-tikz).
